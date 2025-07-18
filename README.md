@@ -1,3 +1,3 @@
 # Tokopedia
 
-## A Clone of Tokopedia E-Commerce 
+## A Clone of Tokopedia E-Commerce app
